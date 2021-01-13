@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578247285 source:d:\cpp\projects\library mnangement\main.cpp
+	<iostream>
+	<conio.h>
+
+1578250549 source:c:\users\iqbal\desktop\library mnangement\main.cpp
+	<iostream>
+	<conio.h>
+
